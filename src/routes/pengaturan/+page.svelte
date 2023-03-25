@@ -23,7 +23,7 @@
 	];
 </script>
 
-<Seo title="Pengaturan | Quranible" />
+<Seo title="Pengaturan | Al-Quran Digital" />
 
 <section class="min-h-screen dark:text-slate-300">
 	<Heading title="Pengaturan" />
