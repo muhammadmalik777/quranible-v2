@@ -51,7 +51,7 @@
 					href="/"
 					title="Al-Quran digital"
 					aria-label="Logo"
-					class="text-2xl font-bold">Quranible</a
+					class="text-2xl font-bold">Al-Quran digital</a
 				>
 			</li>
 			<li>
