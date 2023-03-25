@@ -49,7 +49,7 @@
 				<a
 					sveltekit:prefetch
 					href="/"
-					title="Quranible"
+					title="Al-Quran digital"
 					aria-label="Logo"
 					class="text-2xl font-bold">Quranible</a
 				>
@@ -97,15 +97,15 @@
 						/>
 					{/each}
 					<li class="border-b-2 border-slate-600 py-5">
-						<a href="https://saweria.co/mohamadadithya" target="_blank" title="Donasi"
+						<a href="https://wa.me/6285715028689" target="_blank" title="Donasi"
 							><i class="far fa-fw fa-donate" /> Donasi</a
 						>
 					</li>
 				</ul>
 			</div>
 			<p class="text-xs mb-6">
-				&copy; 2022 <a href="https://m-adithya.my.id" aria-label="Web's author" title="Author"
-					>Mohamad Adithya</a
+				&copy; 2022 <a href="https://hidekidigitalstore.com" aria-label="Web's Store" title="Store"
+					>HidekidigitalStore</a
 				>
 			</p>
 		</nav>
